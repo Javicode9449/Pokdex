@@ -1,0 +1,26 @@
+.container {
+    align-items: center;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+}
+
+h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.loading-png {
+    align-items: center;
+    display: flex;
+    justify-content: center;;
+    padding: 5vw;
+
+}
+
+img {
+    height: auto;
+    width: 50vw;
+}
